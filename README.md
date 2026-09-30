@@ -1,4 +1,4 @@
 # RepositorioPrubaHoy
-Repositorio de la clase del viernes 18/09/2026
+Este es un repositorio de prueba para el uso de Github
 
 Cambios agregados desde la computadora
